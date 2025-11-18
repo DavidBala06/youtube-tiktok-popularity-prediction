@@ -1,0 +1,9 @@
+# Libraries required for model training (train_model.py)
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+
+# Libraries required for the Streamlit application (app.py)
+streamlit
